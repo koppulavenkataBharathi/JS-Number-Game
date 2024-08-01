@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(6, 45, 116);
+}
+.inner-container-1{
+background-color: blanchedalmond;
+
+}
+.inner-container-1 h1,.inner-container-2 h1{
+    text-decoration: underline;
+}
+.inner-container-2{
+    background-color: rgb(134, 214, 216);
+    /* height: 300px; */
+ }
+h3#result{
+
+    background-color: coral;
+    width:200px;
+    margin: auto;
+    display: none;
+}
+input{
+    width:100px;
+    text-align: center;
+    font-weight: 500;
+}
+.next-round-button{
+    display: none;
+    margin:0px auto;
+}
+
+.start-again-button{
+    display: none;
+    border:none;
+    
+    
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+
+
